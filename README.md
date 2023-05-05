@@ -10,7 +10,7 @@ Welcome to my Github page!
 - Taking online courses about Data Science and Machine Learning 
 - [My website](http://flymetothemoon.cn/) 🚀 *coming soon*
   <img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flymetwothemoon)](https://github.com/anuraghazra/github-readme-stats)
+
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Compose
 #### 🌻 I am studying 🌻
@@ -36,7 +36,7 @@ Welcome to my Github page!
 If you want to know more, please refer to the my [website](http://flymetothemoon.cn/).
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Flymetwothemoon&show_icons=true&theme=dark&count_private=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flymetwothemoon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
