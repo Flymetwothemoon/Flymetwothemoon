@@ -1,7 +1,7 @@
 
-<img align="right" alt="img" src="https://images2.alphacoders.com/106/1062802.png" width="50%" height="auto" />
+
 ### Hi there 👋
- 
+ <img align="right" alt="img" src="https://images2.alphacoders.com/106/1062802.png" width="50%" height="auto" />
  
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Flymetwothemoon)
