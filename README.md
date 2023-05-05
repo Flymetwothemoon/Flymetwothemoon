@@ -7,7 +7,7 @@
  
 Welcome to my Github page! 
 
-<img align="right" alt="img" src="https://img.yanlutong.com/uploadimg/image/20230215/20230215091712_56484.jpg" width="50%" height="auto" />
+<img align="bottom" alt="img" src="https://cn.bing.com/images/search?view=detailV2&ccid=QsH%2fYngu&id=C18F95EBDBB794FDC40C9E8D8A6DE716CE11A233&thid=OIP.QsH_Yngue83bXXTd9pCbpgHaFV&mediaurl=https%3a%2f%2fc-ssl.duitang.com%2fuploads%2fblog%2f202102%2f28%2f20210228161850_1ea74.jpeg&exph=1080&expw=1500&q=EVA%e7%b1%b3%e5%b1%b1%e8%88%9e&simid=608018991375470610&FORM=IRPRST&ck=D4E0BD9190A6C4438E6CFD2144D52DC0&selectedIndex=10&ajaxhist=0&ajaxserp=0" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on 🌱 : 
 - Taking online courses about Data Science and Machine Learning 
