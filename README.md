@@ -7,7 +7,7 @@
  
 Welcome to my Github page! 
 
-<img align="bottom" alt="img" src="https://cn.bing.com/images/search?view=detailV2&ccid=QsH%2fYngu&id=C18F95EBDBB794FDC40C9E8D8A6DE716CE11A233&thid=OIP.QsH_Yngue83bXXTd9pCbpgHaFV&mediaurl=https%3a%2f%2fc-ssl.duitang.com%2fuploads%2fblog%2f202102%2f28%2f20210228161850_1ea74.jpeg&exph=1080&expw=1500&q=EVA%e7%b1%b3%e5%b1%b1%e8%88%9e&simid=608018991375470610&FORM=IRPRST&ck=D4E0BD9190A6C4438E6CFD2144D52DC0&selectedIndex=10&ajaxhist=0&ajaxserp=0" width="50%" height="auto" />
+
 
 #### 🌱 Things I am currently working on 🌱 : 
 - Taking online courses about Data Science and Machine Learning 
@@ -23,5 +23,5 @@ Welcome to my Github page!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Flymetwothemoon&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flymetwothemoon&theme=dark&layout=compact)
-
+<img align="bottom" alt="img" src="https://cn.bing.com/images/search?view=detailV2&ccid=YfYvFMS6&id=7D3FC4FCE575BB19CCCC105C811FAE6F37D33F87&thid=OIP.YfYvFMS6ZSd4arxOIr4P2gAAAA&mediaurl=https%3a%2f%2fc-ssl.duitang.com%2fuploads%2fblog%2f202103%2f02%2f20210302170706_eca85.thumb.400_0.jpeg&exph=243&expw=400&q=EVA%e7%b1%b3%e5%b1%b1%e8%88%9e&simid=608015843143320721&FORM=IRPRST&ck=07B37531E507AF4EACDE15B758232BB1&selectedIndex=123&ajaxhist=0&ajaxserp=0" width="50%" height="auto" />
 
