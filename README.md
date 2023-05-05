@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ <img align="right" alt="img" src="https://images2.alphacoders.com/106/1062802.png" width="50%" height="auto" />
  
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Flymetwothemoon)
@@ -12,7 +12,7 @@ Welcome to my Github page!
 #### 🌱 Things I am currently working on 🌱 : 
 - Taking online courses about Data Science and Machine Learning 
 - [My website](http://flymetothemoon.cn/) 🚀 *coming soon*
- <img align="right" alt="img" src="https://images2.alphacoders.com/106/1062802.png" width="50%" height="auto" />
+
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Linux
