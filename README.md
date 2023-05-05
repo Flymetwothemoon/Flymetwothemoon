@@ -3,7 +3,7 @@
  
 Welcome to my Github page!
  
-<img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
+
  
  
 #### 🌱 Things I am currently working on 🌱 : 
