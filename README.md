@@ -5,11 +5,11 @@ Welcome to my Github page!
  
 
  
- <img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
+
 #### 🌱 Things I am currently working on 🌱 : 
 - Taking online courses about Data Science and Machine Learning 
 - [My website](http://flymetothemoon.cn/) 🚀 *coming soon*
- 
+  <img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Compose
