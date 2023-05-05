@@ -12,7 +12,7 @@ Welcome to my Github page!
 #### 🌱 Things I am currently working on 🌱 : 
 - Taking online courses about Data Science and Machine Learning 
 - [My website](http://flymetothemoon.cn/) 🚀 *coming soon*
- 
+ <img align="right" alt="img" src="https://images2.alphacoders.com/106/1062802.png" width="50%" height="auto" />
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Linux
@@ -23,5 +23,5 @@ Welcome to my Github page!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Flymetwothemoon&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flymetwothemoon&theme=dark&layout=compact)
-<img align="left" alt="img" src="https://images2.alphacoders.com/106/1062802.png" width="50%" height="auto" />
+
 
